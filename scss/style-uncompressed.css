@@ -10296,6 +10296,12 @@ button.bg-dark:focus {
   .text-sm-center {
     text-align: center !important;
   }
+  .container {
+    padding: 0px 1em;
+  }
+  .about {
+    padding: 0px 1em;
+  }
 }
 
 @media (min-width: 768px) {
@@ -10307,6 +10313,12 @@ button.bg-dark:focus {
   }
   .text-md-center {
     text-align: center !important;
+  }
+  .container {
+    padding: 0px 1em;
+  }
+  .about {
+    padding: 0px 1em;
   }
 }
 
