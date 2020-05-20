@@ -16778,7 +16778,7 @@ footer .copyright {
 
 /* Contact Model*/
 .contact .modal-content {
-  background: rgba(0, 0, 0, 1);
+  background: rgba(0, 0, 0, 0.8);
 }
 
 .contact .modal-content .close {
