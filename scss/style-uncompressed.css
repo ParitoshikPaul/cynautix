@@ -10297,10 +10297,10 @@ button.bg-dark:focus {
     text-align: center !important;
   }
   .container {
-    padding: 0px 1em;
+    padding: 0px 1em !important;
   }
   .about {
-    padding: 0px 1em;
+    padding: 0px 1em !important;
   }
 }
 
@@ -10315,10 +10315,10 @@ button.bg-dark:focus {
     text-align: center !important;
   }
   .container {
-    padding: 0px 1em;
+    padding: 0px 1em !important;
   }
   .about {
-    padding: 0px 1em;
+    padding: 0px 1em !important;
   }
 }
 
